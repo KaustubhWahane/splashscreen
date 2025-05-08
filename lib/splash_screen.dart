@@ -43,6 +43,7 @@ class _SplashScreenState extends State<SplashScreen> {
                 fontWeight: FontWeight.bold,
                 color: Colors.teal,
                 // Amit changed
+                // Umyam Changed
               ),
             ),
           ],
