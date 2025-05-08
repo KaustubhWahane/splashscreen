@@ -42,11 +42,8 @@ class _SplashScreenState extends State<SplashScreen> {
                 fontSize: 30,
                 fontWeight: FontWeight.bold,
                 color: Colors.teal,
-<<<<<<< HEAD
                 // Ab me change karu toh master pe hona chahiye
-=======
                 // Amit changed
->>>>>>> 733b69b9534e8df65d138306a98ca717fb7aafb8
               ),
             ),
           ],
